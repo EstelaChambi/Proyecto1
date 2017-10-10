@@ -28,6 +28,7 @@ public class Cliente extends Persona{
     {
         super();
         cod_cliente="c1";
+
         
     }
     Cliente(String nom)
